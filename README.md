@@ -8,3 +8,5 @@ Project Vision
 * Tech Stack: MongoDB, Express, React, Node.js
 
 Demo 1 features a scenario of a parent adding a new driver to their insurance plan. The modeler shows how the monthly installments would change and also gives the customer a chance to see a quarterly billing policy.
+
+Demo 2 shows the option to select up to 4 schedules and compare them side by side. 
